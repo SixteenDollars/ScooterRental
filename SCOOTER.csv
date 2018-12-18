@@ -1,0 +1,5 @@
+model,manufacturer,country,range,weight,topspeed,condition,availability
+34,Scooterz,America,50,50,50,bad,YES
+51,Scooterz,America,25,25,25,good,NO
+56,New Scooter Co.,Bolivia,10,10,10,good,NO
+99,Scooter Boyz,Canada,100,100,100,good,NO
